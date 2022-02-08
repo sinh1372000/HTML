@@ -4,7 +4,7 @@ class react extends Component {
     render() {
         return (
             <div>
-                <button>click</button>
+                <button>click xem doi chua</button>
             </div>
         );
     }
